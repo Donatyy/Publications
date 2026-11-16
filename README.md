@@ -1,6 +1,19 @@
 # Research Publications
 
 Collection of my academic publications, papers, and research projects.
+## Repository Structure
+
+```text
+.
+├── README.md
+├── 2026-clef-checkthat-retrix/
+│   ├── README.md
+│   ├── CITATION.cff
+│   └── RETRIX paper.pdf
+└── 2026-notpetya-technical-analysis/
+    ├── README.md
+    └── NotPetya_Technical_Analysis.pdf
+```
 
 ---
 

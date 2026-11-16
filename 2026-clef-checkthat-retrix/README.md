@@ -12,8 +12,7 @@
 
 ## Folder Contents
 
-* [`paper.pdf`](./paper.pdf) — Full working notes paper (Open Access, CC BY 4.0).
-* [`poster_or_slides.pdf`](./poster_or_slides.pdf) — Presentation slides delivered at the CLEF 2026 CheckThat! Lab session.
+* [`paper.pdf`](./RETRIX%20paper.pdf) — Full working notes paper (Open Access, CC BY 4.0).
 * [`CITATION.cff`](./CITATION.cff) — Machine-readable citation metadata.
 
 ---

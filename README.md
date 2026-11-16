@@ -36,3 +36,18 @@ We present <b>RETRIX</b>, a multi-stage multilingual Information Retrieval pipel
   year      = {2026},
   url       = {[https://ceur-ws.org/Vol-4283/](https://ceur-ws.org/Vol-4283/)}
 }
+
+---
+
+## 📝 Technical Essays & Coursework
+
+### NotPetya (2017): The Most Destructive Attack in History
+**Author:** Davide Donati · **Year:** 2026 · **Type:** Technical Security Analysis (Unpublished)
+
+📄 [Read PDF](./2026-notpetya-technical-analysis/NotPetya_Technical_Analysis.pdf) · 📁 [Folder & Summary](./2026-notpetya-technical-analysis/)
+
+<details>
+<summary><b>Abstract & Topics Covered</b></summary>
+<br>
+An in-depth technical and architectural analysis of the June 2017 NotPetya cyberattack. The paper dissects the full kill chain—from the compromised M.E.Doc accounting software update (<code>EzData.dll</code>) and dual SMBv1 exploit vectors (EternalBlue/EternalRomance) to in-memory LSASS credential harvesting (Mimikatz), WMI/PsExec lateral movement, and irreversible low-level disk wiping via <code>\\.\PhysicalDrive0</code> MBR overwrites and Salsa20-based MFT corruption. Concludes with infrastructure casualty analyses (Maersk, Merck) and Zero-Trust resilience principles.
+</details>

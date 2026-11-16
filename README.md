@@ -36,6 +36,7 @@ We present <b>RETRIX</b>, a multi-stage multilingual Information Retrieval pipel
   year      = {2026},
   url       = {[https://ceur-ws.org/Vol-4283/](https://ceur-ws.org/Vol-4283/)}
 }
+</details>
 
 ---
 

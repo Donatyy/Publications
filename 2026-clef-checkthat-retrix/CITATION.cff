@@ -1,0 +1,56 @@
+cff-version: 1.2.0
+message: "If you use this work or reference our system architecture, please cite our CLEF 2026 Working Notes paper."
+title: "RETRIX at CheckThat! 2026: Source Retrieval for Scientific Web Claims"
+authors:
+  - family-names: "Baldan"
+    given-names: "Fabio"
+  - family-names: "Donati"
+    given-names: "Davide"
+  - family-names: "Garberino"
+    given-names: "Alvise"
+  - family-names: "Padoan"
+    given-names: "Giancarlo"
+  - family-names: "Tessari"
+    given-names: "Marco"
+  - family-names: "Ferro"
+    given-names: "Nicola"
+type: software
+date-released: 2026-10-04
+url: "https://ceur-ws.org/Vol-4283/"
+keywords:
+  - "Information Retrieval"
+  - "Scientific Claim Verification"
+  - "Multilingual Retrieval"
+  - "CheckThat! Lab"
+  - "CLEF 2026"
+  - "BGE-M3"
+  - "Cross-Encoder Reranking"
+license: "CC-BY-4.0"
+preferred-citation:
+  type: conference-paper
+  title: "RETRIX at CheckThat! 2026: Source Retrieval for Scientific Web Claims"
+  authors:
+    - family-names: "Baldan"
+      given-names: "Fabio"
+    - family-names: "Donati"
+      given-names: "Davide"
+    - family-names: "Garberino"
+      given-names: "Alvise"
+    - family-names: "Padoan"
+      given-names: "Giancarlo"
+    - family-names: "Tessari"
+      given-names: "Marco"
+    - family-names: "Ferro"
+      given-names: "Nicola"
+  collection-title: "Working Notes of CLEF 2026 - Conference and Labs of the Evaluation Forum"
+  collection-type: proceedings
+  conference:
+    name: "CLEF 2026 - Conference and Labs of the Evaluation Forum"
+  volume: 4283
+  start: 883
+  end: 896
+  year: 2026
+  month: 10
+  publisher:
+    name: "CEUR-WS.org"
+  url: "https://ceur-ws.org/Vol-4283/"

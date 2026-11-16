@@ -41,8 +41,6 @@ We present <b>RETRIX</b>, a multi-stage multilingual Information Retrieval pipel
 
 ---
 
-## Technical Essays & Coursework
-
 ### NotPetya (2017): The Most Destructive Attack in History
 **Author:** Davide Donati · **Year:** 2026 · **Type:** Technical Security Analysis (Unpublished)
 

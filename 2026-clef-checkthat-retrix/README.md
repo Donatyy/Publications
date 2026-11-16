@@ -37,7 +37,7 @@ RETRIX achieved **5th place overall** on the official test leaderboard:
 | Metric / Split | English (EN) | German (DE) | French (FR) | **Macro Average** |
 | :--- | :---: | :---: | :---: | :---: |
 | **MRR@5** | `0.6806` | `0.7117` | **`0.7400`** | **`0.7108`** |
-| **Leaderboard Rank** | — | — | 4th | **5th** |
+| **Leaderboard Rank** | 5th | 5th | 4th | **5th** |
 
 ---
 

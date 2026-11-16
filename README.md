@@ -12,7 +12,7 @@ Collection of my academic publications, papers, and research projects.
 **Result: 5th place** overall in the challenge
 
 · 🔗 [Official Proceedings (CEUR-WS)](https://ceur-ws.org/Vol-4283/)
-· 📄 [Paper - PDF](https://ceur-ws.org/Vol-4283/paper56.pdf)
+· 📄 [Local PDF](./2026-clef-checkthat-retrix/RETRIX%20paper.pdf)
 · 💻 [System Codebase](https://github.com/Donatyy/CLEF2026-SE.git)
 
 <details>
